@@ -1,0 +1,8 @@
+G:\VS 2022\Homework 2\Homework 2\Homework 2\obj\Debug\Homework 2.csproj.AssemblyReference.cache
+G:\VS 2022\Homework 2\Homework 2\Homework 2\obj\Debug\Homework 2.csproj.SuggestedBindingRedirects.cache
+G:\VS 2022\Homework 2\Homework 2\Homework 2\obj\Debug\Homework 2.csproj.CoreCompileInputs.cache
+G:\VS 2022\Homework 2\Homework 2\Homework 2\bin\Debug\Homework 2.exe.config
+G:\VS 2022\Homework 2\Homework 2\Homework 2\bin\Debug\Homework 2.exe
+G:\VS 2022\Homework 2\Homework 2\Homework 2\bin\Debug\Homework 2.pdb
+G:\VS 2022\Homework 2\Homework 2\Homework 2\obj\Debug\Homework 2.exe
+G:\VS 2022\Homework 2\Homework 2\Homework 2\obj\Debug\Homework 2.pdb

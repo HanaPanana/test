@@ -1,0 +1,6 @@
+G:\VS 2022\Homework 2\Homework 2\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+G:\VS 2022\Homework 2\Homework 2\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+G:\VS 2022\Homework 2\Homework 2\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+G:\VS 2022\Homework 2\Homework 2\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+G:\VS 2022\Homework 2\Homework 2\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+G:\VS 2022\Homework 2\Homework 2\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
