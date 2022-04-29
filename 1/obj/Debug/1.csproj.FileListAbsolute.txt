@@ -1,8 +1,0 @@
-G:\VS 2022\Homework 1\1\1\bin\Debug\1.exe.config
-G:\VS 2022\Homework 1\1\1\bin\Debug\1.exe
-G:\VS 2022\Homework 1\1\1\bin\Debug\1.pdb
-G:\VS 2022\Homework 1\1\1\obj\Debug\1.csproj.AssemblyReference.cache
-G:\VS 2022\Homework 1\1\1\obj\Debug\1.csproj.SuggestedBindingRedirects.cache
-G:\VS 2022\Homework 1\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
-G:\VS 2022\Homework 1\1\1\obj\Debug\1.exe
-G:\VS 2022\Homework 1\1\1\obj\Debug\1.pdb
