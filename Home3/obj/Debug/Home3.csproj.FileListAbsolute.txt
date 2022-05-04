@@ -1,0 +1,8 @@
+C:\Home3\Home3\Home3\obj\Debug\Home3.csproj.AssemblyReference.cache
+C:\Home3\Home3\Home3\obj\Debug\Home3.csproj.SuggestedBindingRedirects.cache
+C:\Home3\Home3\Home3\obj\Debug\Home3.csproj.CoreCompileInputs.cache
+C:\Home3\Home3\Home3\bin\Debug\Home3.exe.config
+C:\Home3\Home3\Home3\bin\Debug\Home3.exe
+C:\Home3\Home3\Home3\bin\Debug\Home3.pdb
+C:\Home3\Home3\Home3\obj\Debug\Home3.exe
+C:\Home3\Home3\Home3\obj\Debug\Home3.pdb
