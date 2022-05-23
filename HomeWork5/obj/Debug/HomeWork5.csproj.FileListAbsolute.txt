@@ -1,0 +1,16 @@
+G:\VS 2022\HomeWork5\HomeWork5\bin\Debug\HomeWork5.exe.config
+G:\VS 2022\HomeWork5\HomeWork5\bin\Debug\HomeWork5.exe
+G:\VS 2022\HomeWork5\HomeWork5\bin\Debug\HomeWork5.pdb
+G:\VS 2022\HomeWork5\HomeWork5\obj\Debug\HomeWork5.csproj.AssemblyReference.cache
+G:\VS 2022\HomeWork5\HomeWork5\obj\Debug\HomeWork5.csproj.SuggestedBindingRedirects.cache
+G:\VS 2022\HomeWork5\HomeWork5\obj\Debug\HomeWork5.csproj.CoreCompileInputs.cache
+G:\VS 2022\HomeWork5\HomeWork5\obj\Debug\HomeWork5.exe
+G:\VS 2022\HomeWork5\HomeWork5\obj\Debug\HomeWork5.pdb
+C:\Users\User.ASTRA-KSN\Desktop\HomeWork5\HomeWork5\bin\Debug\HomeWork5.exe.config
+C:\Users\User.ASTRA-KSN\Desktop\HomeWork5\HomeWork5\bin\Debug\HomeWork5.exe
+C:\Users\User.ASTRA-KSN\Desktop\HomeWork5\HomeWork5\bin\Debug\HomeWork5.pdb
+C:\Users\User.ASTRA-KSN\Desktop\HomeWork5\HomeWork5\obj\Debug\HomeWork5.csproj.AssemblyReference.cache
+C:\Users\User.ASTRA-KSN\Desktop\HomeWork5\HomeWork5\obj\Debug\HomeWork5.csproj.SuggestedBindingRedirects.cache
+C:\Users\User.ASTRA-KSN\Desktop\HomeWork5\HomeWork5\obj\Debug\HomeWork5.csproj.CoreCompileInputs.cache
+C:\Users\User.ASTRA-KSN\Desktop\HomeWork5\HomeWork5\obj\Debug\HomeWork5.exe
+C:\Users\User.ASTRA-KSN\Desktop\HomeWork5\HomeWork5\obj\Debug\HomeWork5.pdb
